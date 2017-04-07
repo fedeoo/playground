@@ -56,5 +56,6 @@ tree -I node_modules -L 3
 1. `src/alg/merge-base` 这个例子是实现 merge-base 的查找最优公共祖先算法，所以需要一个测试环境
 2. `src/IntersectionObserver` 基于 IntersectionObserver 做的一个滚动加载 demo
 3. `src/three` `three.js` 的试验场
+4. mobx 实验
 
 在项目启动之后，在浏览器访问 `localhost:3000/three/drinkbird/` 可查看 demo
